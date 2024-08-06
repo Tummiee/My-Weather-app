@@ -9,6 +9,7 @@
 body{
   min-height: 100vh;
   display: grid;
-  background: #1e1f21;
+  background: #1e1f21e7;
   font-family: 'Poppins', sans-serif;
+  place-items: center;
 }
