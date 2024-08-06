@@ -9,7 +9,10 @@
 body{
   min-height: 100vh;
   display: grid;
-  background: #1e1f21e7;
+  background: url(/src/assets/pexels-kinkate-368260.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
   font-family: 'Poppins', sans-serif;
   place-items: center;
 }
